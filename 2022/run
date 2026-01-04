@@ -1,0 +1,198 @@
+./start map.txt Result.txt
+
+
+
+
+
+cat Result.txt | grep "3CX" >> Xman-mosaab.txt
+cat Result.txt | grep "Sangoma" >> Xman-mosaab.txt
+cat Result.txt | grep "sangoma" >> Xman-mosaab.txt
+cat Result.txt | grep "scopserv" >> Xman-mosaab.txt
+cat Result.txt | grep "ALL PBX" >> Xman-mosaab.txt
+cat Result.txt | grep "Asteriskbox" >> Xman-mosaab.txt
+cat Result.txt | grep "BitPBX" >> Xman-mosaab.txt
+cat Result.txt | grep "BitPBX">> Xman-mosaab.txt
+cat Result.txt | grep "BPX" >> Xman-mosaab.txt
+cat Result.txt | grep "Comrex" >> Xman-mosaab.txt
+cat Result.txt | grep "Aastra" >> Xman-mosaab.txt
+cat Result.txt | grep "digestpbx" >> Xman-mosaab.txt
+cat Result.txt | grep "Elastix" >> Xman-mosaab.txt
+cat Result.txt | grep "Eltex" >> Xman-mosaab.txt
+cat Result.txt | grep "EnterPBX" >> Xman-mosaab.txt
+cat Result.txt | grep "Fpbx" >> Xman-mosaab.txt
+cat Result.txt | grep "FREEPBX" >> Xman-mosaab.txt
+cat Result.txt | grep "FreevoicePBX" >> Xman-mosaab.txt
+cat Result.txt | grep "inteliex" >> Xman-mosaab.txt
+cat Result.txt | grep "iPABX" >> Xman-mosaab.txt
+cat Result.txt | grep "IPBX" >> Xman-mosaab.txt
+cat Result.txt | grep "IPPBX" >> Xman-mosaab.txt
+cat Result.txt | grep "Matrix" >> Xman-mosaab.txt
+cat Result.txt | grep "Mediatrix" >> Xman-mosaab.txt
+cat Result.txt | grep "mikopbx" >> Xman-mosaab.txt
+cat Result.txt | grep "MitE1x" >> Xman-mosaab.txt
+cat Result.txt | grep "MyPbx" >> Xman-mosaab.txt
+cat Result.txt | grep "NTRVPBX" >> Xman-mosaab.txt
+cat Result.txt | grep "OmniPCX" >> Xman-mosaab.txt
+cat Result.txt | grep "OTelloPBX" >> Xman-mosaab.txt
+cat Result.txt | grep "PABX" >> Xman-mosaab.txt
+cat Result.txt | grep "Pbx" >> Xman-mosaab.txt
+cat Result.txt | grep "PowerConnex" >> Xman-mosaab.txt
+cat Result.txt | grep "Realvox" >> Xman-mosaab.txt
+cat Result.txt | grep "VAEX" >> Xman-mosaab.txt
+cat Result.txt | grep "VoIPBOX" >> Xman-mosaab.txt
+cat Result.txt | grep "Zentrix" >> Xman-mosaab.txt
+cat Result.txt | grep "asterisk" >> Xman-mosaab.txt
+cat Result.txt | grep "AsteriskNow" >> Xman-mosaab.txt
+cat Result.txt | grep "AstPbx.ru" >> Xman-mosaab.txt
+cat Result.txt | grep "3CXPhoneSystem" >> Xman-mosaab.txt
+cat Result.txt | grep "AASTRA" >> Xman-mosaab.txt
+cat Result.txt | grep "Abilis" >> Xman-Grep.txt
+cat Result.txt | grep "ADTRAN" >> Xman-Grep.txt
+cat Result.txt | grep "Altitude" >> Xman-Grep.txt
+cat Result.txt | grep "Aristel" >> Xman-Grep.txt
+cat Result.txt | grep "AROLI VOICE GW" >> Xman-Grep.txt
+cat Result.txt | grep "Askozia" >> Xman-Grep.txt
+cat Result.txt | grep "astercc" >> Xman-Grep.txt
+cat Result.txt | grep "ASTPP" >> Xman-Grep.txt
+cat Result.txt | grep "AstraQom" >> Xman-Grep.txt
+cat Result.txt | grep "Astrum" >> Xman-Grep.txt
+cat Result.txt | grep "Audiocodes" >> Xman-Grep.txt
+cat Result.txt | grep "AzCall" >> Xman-Grep.txt
+cat Result.txt | grep "Barracuda" >> Xman-Grep.txt
+cat Result.txt | grep "CallBridge" >> Xman-Grep.txt
+cat Result.txt | grep "callrabi18" >> Xman-Grep.txt
+cat Result.txt | grep "ccs" >> Xman-Grep.txt
+cat Result.txt | grep "CIP" >> Xman-Grep.txt
+cat Result.txt | grep "CIRT" >> Xman-Grep.txt
+cat Result.txt | grep "CLOUND PROXY" >> Xman-Grep.txt
+cat Result.txt | grep "Codian" >> Xman-Grep.txt
+cat Result.txt | grep "CommuniGatePro" >> Xman-Grep.txt
+cat Result.txt | grep "cr" >> Xman-Grep.txt
+cat Result.txt | grep "dbl" >> Xman-Grep.txt
+cat Result.txt | grep "dble" >> Xman-Grep.txt
+cat Result.txt | grep "denwa" >> Xman-Grep.txt
+cat Result.txt | grep "DenwaUC" >> Xman-Grep.txt
+cat Result.txt | grep "Dialtech" >> Xman-Grep.txt
+cat Result.txt | grep "Digistar" >> Xman-Grep.txt
+cat Result.txt | grep "digium">> Xman-Grep.txt
+cat Result.txt | grep "EasyVPN" >> Xman-Grep.txt
+cat Result.txt | grep "eiransairaala" >> Xman-Grep.txt
+cat Result.txt | grep "EJOIN" >> Xman-Grep.txt
+cat Result.txt | grep "Eltek" >> Xman-Grep.txt
+cat Result.txt | grep "EXpress" >> Xman-Grep.txt
+cat Result.txt | grep "ezView" >> Xman-Grep.txt
+cat Result.txt | grep "FortiVoice" >> Xman-Grep.txt
+cat Result.txt | grep "FRE" >> Xman-Grep.txt
+cat Result.txt | grep "Free" >> Xman-Grep.txt
+cat Result.txt | grep "FreeSWITCH" >> Xman-mosaab.txt
+cat Result.txt | grep "friendly" >> Xman-Grep.txt
+cat Result.txt | grep "Fusion" >> Xman-Grep.txt
+cat Result.txt | grep "GHJ" >> Xman-Grep.txt
+cat Result.txt | grep "Grand" >> Xman-mosaab.txt
+cat Result.txt | grep "Grandstream" >> Xman-mosaab.txt
+cat Result.txt | grep "HANLONG" >> Xman-Grep.txt
+cat Result.txt | grep "iMax_SS" >> Xman-Grep.txt
+cat Result.txt | grep "infoexcd" >> Xman-Grep.txt
+cat Result.txt | grep "Infra Call Center Server" >> Xman-Grep.txt
+cat Result.txt | grep "Ingate-Firewall" >> Xman-Grep.txt
+cat Result.txt | grep "ININ" >> Xman-Grep.txt
+cat Result.txt | grep "INTELBRAS" >> Xman-Grep.txt
+cat Result.txt | grep "Intellin" >> Xman-Grep.txt
+cat Result.txt | grep "IPBrick" >> Xman-Grep.txt
+cat Result.txt | grep "iPECS" >> Xman-Grep.txt
+cat Result.txt | grep "iPECS-UCP" >> Xman-Grep.txt
+cat Result.txt | grep "ISION" >> Xman-Grep.txt
+cat Result.txt | grep "Issabel" >> Xman-mosaab.txt
+cat Result.txt | grep "ITneo" >> Xman-Grep.txt
+cat Result.txt | grep "kamailio" >> Xman-mosaab.txt
+cat Result.txt | grep "Kerio" >> Xman-Grep.txt
+cat Result.txt | grep "Kwebbl" >> Xman-Grep.txt
+cat Result.txt | grep "LaxoVoip" >> Xman-Grep.txt
+cat Result.txt | grep "LG-Ericsson" >> Xman-Grep.txt
+cat Result.txt | grep "LINKSYS" >> Xman-mosaab.txt
+cat Result.txt | grep "Linksys/PA" >> Xman-mosaab.txt
+cat Result.txt | grep "macvoip" >> Xman-Grep.txt
+cat Result.txt | grep "matts" >> Xman-Grep.txt
+cat Result.txt | grep "Maxwell" >> Xman-Grep.txt
+cat Result.txt | grep "MAYAH" >> Xman-Grep.txt
+cat Result.txt | grep "Mediant" >> Xman-Grep.txt
+cat Result.txt | grep "MERA" >> Xman-mosaab.txt
+cat Result.txt | grep "Mitel Border" >> Xman-Grep.txt
+cat Result.txt | grep "mitel" >> Xman-Grep.txt
+cat Result.txt | grep "Mitsumi" >> Xman-Grep.txt
+cat Result.txt | grep "MOR" >> Xman-Grep.txt
+cat Result.txt | grep "NIS_Prime" >> Xman-Grep.txt
+cat Result.txt | grep "Nokia" >> Xman-Grep.txt
+cat Result.txt | grep "Nortel" >> Xman-Grep.txt
+cat Result.txt | grep "Office" >> Xman-Grep.txt
+cat Result.txt | grep "Oktell" >> Xman-Grep.txt
+cat Result.txt | grep "OpenSer" >> Xman-Grep.txt
+cat Result.txt | grep "Orchid" >> Xman-Grep.txt
+cat Result.txt | grep "Panasonic" >> Xman-Grep.txt
+cat Result.txt | grep "Patton" >> Xman-Grep.txt
+cat Result.txt | grep "PB" >> Xman-mosaab.txt
+cat Result.txt | grep "pb" >> Xman-mosaab.txt
+cat Result.txt | grep "PBXact" >> Xman-Grep.txt
+cat Result.txt | grep "Pirelli" >> Xman-Grep.txt
+cat Result.txt | grep "Platan" >> Xman-Grep.txt
+cat Result.txt | grep "PLEXTEL" >> Xman-Grep.txt
+cat Result.txt | grep "Polycom" >> Xman-Grep.txt
+cat Result.txt | grep "Port" >> Xman-Grep.txt
+cat Result.txt | grep "Porta" >> Xman-Grep.txt
+cat Result.txt | grep "PortaSIP" >> Xman-Grep.txt
+cat Result.txt | grep "PUCS" >> Xman-Grep.txt
+cat Result.txt | grep "Railtion" >> Xman-Grep.txt
+cat Result.txt | grep "Roxton" >> Xman-Grep.txt
+cat Result.txt | grep "scs.v2" >> Xman-Grep.txt
+cat Result.txt | grep "Server" >> Xman-Grep.txt
+cat Result.txt | grep "ShoreGear" >> Xman-Grep.txt
+cat Result.txt | grep "SIP." >> Xman-Grep.txt
+cat Result.txt | grep "SIP.IO" >> Xman-Grep.txt
+cat Result.txt | grep "sipper" >> Xman-mosaab.txt
+cat Result.txt | grep "Sippy" >> Xman-mosaab.txt
+cat Result.txt | grep "Sipwise" >> Xman-Grep.txt
+cat Result.txt | grep "Sistema" >> Xman-Grep.txt
+cat Result.txt | grep "Slican" >> Xman-Grep.txt
+cat Result.txt | grep "SMC" >> Xman-Grep.txt
+cat Result.txt | grep "SMC-4518" >> Xman-Grep.txt
+cat Result.txt | grep "sofia" >> Xman-Grep.txt
+cat Result.txt | grep "Softswitch" >> Xman-mosaab.txt
+cat Result.txt | grep "Songimali" >> Xman-Grep.txt
+cat Result.txt | grep "StarTrinity.SIP" >> Xman-Grep.txt
+cat Result.txt | grep "Switchburst" >> Xman-Grep.txt
+cat Result.txt | grep "TalkSwitchCVA" >> Xman-Grep.txt
+cat Result.txt | grep "TANDBERG" >> Xman-Grep.txt
+cat Result.txt | grep "Telecom" >> Xman-Grep.txt
+cat Result.txt | grep "TeleFinitySIPSwitch" >> Xman-Grep.txt
+cat Result.txt | grep "Telephonic" >> Xman-Grep.txt
+cat Result.txt | grep "TELES" >> Xman-Grep.txt
+cat Result.txt | grep "Thulium" >> Xman-Grep.txt
+cat Result.txt | grep "TRBOnet" >> Xman-Grep.txt
+cat Result.txt | grep "ubg" >> Xman-Grep.txt
+cat Result.txt | grep "UC300" >> Xman-Grep.txt
+cat Result.txt | grep "ViciDial" >> Xman-Grep.txt
+cat Result.txt | grep "VIVOSIPUA" >> Xman-Grep.txt
+cat Result.txt | grep "Voice" >> Xman-Grep.txt
+cat Result.txt | grep "VoIP" >> Xman-Grep.txt
+cat Result.txt | grep "VoipNow" >> Xman-Grep.txt
+cat Result.txt | grep "VoxStack" >> Xman-Grep.txt
+cat Result.txt | grep "Wave" >> Xman-Grep.txt
+cat Result.txt | grep "X-Lite" >> Xman-Grep.txt
+cat Result.txt | grep "XiVO" >> Xman-Grep.txt
+cat Result.txt | grep "XonTel" >> Xman-Grep.txt
+cat Result.txt | grep "XORCOM" >> Xman-Grep.txt
+cat Result.txt | grep "YATE" >> Xman-Grep.txt
+cat Result.txt | grep "Yealink" >> Xman-Grep.txt
+cat Result.txt | grep "Yeastar" >> Xman-mosaab.txt
+cat Result.txt | grep "cisco" >> Xman-mosaab.txt
+cat Result.txt | grep "Cisco" >> Xman-mosaab.txt
+cat Result.txt | grep "unknown" >> Xman-unknown.txt
+cat Result.txt | grep "Yeastar" >> Xman-mosaab.txt
+
+
+cat Xman-Grep.txt | grep ':'| grep -v '127.0.0.1' | cut -d: -f1 | awk '{ print $2}' >> All.txt
+cat Xman-mosaab.txt | grep ':'| grep -v '127.0.0.1' | cut -d: -f1 | awk '{ print $2}' >> mosaab.txt
+cat Xman-unknown.txt  | grep ':'| grep -v '127.0.0.1' | cut -d: -f1 | awk '{ print $2}' >> Unknown.txt
+
+
+rm -f Xman-unknown.txt

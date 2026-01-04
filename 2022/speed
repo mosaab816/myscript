@@ -1,0 +1,40 @@
+from threading import Thread
+import os
+os.system('ulimit -n 99999')
+try:
+    from Queue import Queue
+except ImportError:
+    from queue import Queue
+import os
+
+def start_worker():
+    while True:
+        try:
+            ip = q.get()
+            os.system('python3 svmap.py %s -v -t0.0 | grep :5060 | tee -a Result.txt' % ip)
+        except Exception as e:
+            print(e)
+            pass
+        finally:
+            q.task_done()
+
+NUMBER_OF_THREADS = int(1)
+q = Queue()
+
+for i in range(NUMBER_OF_THREADS):
+    t = Thread(target=start_worker)
+    t.daemon = True
+    t.start()
+
+with open('map.txt', 'rU') as pf:
+    ips = pf.read().splitlines()
+
+for ip in ips:
+    q.put(ip)
+q.join()
+
+
+
+
+
+
